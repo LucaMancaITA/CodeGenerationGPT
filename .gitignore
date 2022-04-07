@@ -132,3 +132,4 @@ token.txt
 .gpt
 repos
 python_code_text_data
+models/*
